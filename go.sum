@@ -1,7 +1,9 @@
-github.com/go-stomp/stomp v1.0.1 h1:f90kcc2VJM+65lbpmnMO9Ef+PWn+qbamSrSR63V8ygM=
 github.com/go-stomp/stomp v2.0.8+incompatible h1:ncoHLwjBEWILzQptf4Lncm3/kQIyLvOWUfIRmkUVYfE=
 github.com/go-stomp/stomp v2.0.8+incompatible/go.mod h1:VqCtqNZv1226A1/79yh+rMiFUcfY3R109np+7ke4n0c=
-github.com/jjeffery/stomp v0.0.0-20160907031752-b994bda931e1 h1:DnN4Kb2KScs9mto+qjj6UJFEBf0im7pkUGWh4fG5+mQ=
-github.com/jjeffery/stomp v0.0.0-20160907031752-b994bda931e1/go.mod h1:Dm2/JSV8osvkOOlPf9ztZHdKvbAJIJkQPBgX7v9MyOc=
-pack.ag/amqp v0.12.5 h1:WjH1KZ0hHZbT62nzDpvFCQD+jgSwRqj6FUOc2/GlqHM=
-pack.ag/amqp v0.12.5/go.mod h1:4/cbmt4EJXSKlG6LCfWHoqmN0uFdy5i/+YFz+fTfhV4=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e h1:fD57ERR4JtEqsWbfPhv4DMiApHyliiK5xCTNVSPiaAs=
+github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
+gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b h1:QRR6H1YWRnHb4Y/HeNFCTJLFVxaq6wH4YuVdsUOr75U=
+gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
